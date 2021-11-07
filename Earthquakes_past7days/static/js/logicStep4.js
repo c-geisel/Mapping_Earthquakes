@@ -28,7 +28,6 @@ let baseMaps = {
 	"Satellite": satelliteStreets
   };
 
-
 // Create the earthquake layer for our map.
 let earthquakes = new L.layerGroup();
 
