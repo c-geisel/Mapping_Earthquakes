@@ -12,4 +12,4 @@ In the image below, the web page with earthquake visualizations is shown. All ea
 
 In the following image, the earthquake data is toggled off to show just the tectonic plate lines and the major earthquake data. The style of the map has also been changed to "Satellite"
 
-![satellites.png](Images/satellites.png)
+![satellite.png](Images/satellite.png)
